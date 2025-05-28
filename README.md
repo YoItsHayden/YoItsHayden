@@ -35,9 +35,9 @@ My focus is full-stack web development, from quickly sketching out a proof of co
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YoItsHayden&show_icons=true&hide=stars&theme=transparent" />
+  <img src="https://github-readme-stats-khaki-six-39.vercel.app/api?username=YoItsHayden&show_icons=true&hide=stars,prs&theme=transparent" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoItsHayden&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats-khaki-six-39.vercel.app/api/top-langs/?username=YoItsHayden&layout=compact&theme=transparent" />
 </p>
 
 ---
